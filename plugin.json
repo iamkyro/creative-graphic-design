@@ -1,12 +1,12 @@
 {
   "name": "creative-graphic-design",
-  "displayName": "Creative Graphic & Visual Design",
-  "version": "1.0.0",
-  "description": "Bộ công cụ và hướng dẫn thiết kế đồ hoạ thị giác đỉnh cao, triệt tiêu tư duy rập khuôn (anti-generic design, anti-AI slop). Cung cấp nguyên tắc bố cục kịch tính, typography nghệ thuật, bảng màu cá tính và hệ thống phong cách Art Direction độc bản.",
+  "displayName": "Creative Graphic & Anti-Slop Web Design Suite",
+  "version": "2.0.0",
+  "description": "Bộ 7 kỹ năng thiết kế đồ hoạ thị giác và kiến trúc web chuẩn studio (Awwwards/Godly), triệt tiêu hoàn toàn giao diện rập khuôn, mùi AI ('AI slop'), bố cục na ná nhau và văn phong máy móc.",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
-    "Thiết kế poster/banner theo phong cách Editorial Brutalism phá cách",
-    "Xây dựng bảng màu và hệ thống Typography độc bản cho thương hiệu",
-    "Tư vấn bố cục đồ hoạ thị giác và thẩm định tránh các bẫy thiết kế rập khuôn"
+    "Thiết kế trang web theo kiến trúc Split-Screen Pinned hoặc Interactive Index chuẩn Awwwards",
+    "Tạo giao diện độc bản dựa trên hiện vật ngành nghề (Domain DNA Matrix) không đụng hàng",
+    "Thiết kế poster/web với sơ đồ SVG kỹ thuật, chuyển động Masked Reveal và văn phong biên tập viên"
   ]
 }

@@ -1,15 +1,25 @@
-# Graphic Design & Anti-Generic Directives
+# Graphic Design & Anti-Generic Web Directives (v2.0)
 
-Khi thực hiện các nhiệm vụ liên quan đến thiết kế đồ hoạ, bố cục thị giác, xây dựng visual identity, làm poster/banner hoặc tạo giao diện (UI):
+Khi thực hiện bất kỳ nhiệm vụ nào liên quan đến thiết kế đồ hoạ, xây dựng giao diện web (UI/UX), landing page, ứng dụng web, poster/banner hoặc visual identity, bạn BẮT BUỘC phải tuân thủ 6 nguyên tắc cốt lõi sau:
 
-1. **Kháng cự sự tầm thường và rập khuôn (Anti-Generic Bias)**:
-   - Tuyệt đối không áp dụng các công thức rập khuôn mặc định: không dùng Corporate Memphis (nhân vật phẳng pastel chân tay uốn lượn), không nhốt mọi thứ vào bento grid/cards bo tròn 12px với bóng xám nhạt, không dùng gradient tím phát sáng trên nền tối trừ khi có yêu cầu cụ thể.
-   - Tránh dùng font mặc định phổ biến (Inter, Roboto, Arial) làm tiêu đề chính mà không có sự cân nhắc kịch tính về tỷ lệ và cá tính.
+1. **Phá vỡ khung xương trang web rập khuôn (Anti-Template Architecture)**:
+   - CẤM lặp lại cấu trúc SaaS mặc định (`Navbar -> Hero căn giữa -> 3 cột thẻ tính năng -> Bento Grid -> Bảng giá -> Footer 4 cột`).
+   - Luôn chọn một kiến trúc không gian đặc thù từ skill `anti-template-web-architecture` (Split-Screen Pinned, Editorial Magazine Spread, Interactive Index Table, Product-as-Hero Sandbox, hoặc Asymmetric Broken Grid).
 
-2. **Tư duy Giám đốc Nghệ thuật (Art Director Mindset)**:
-   - Luôn chọn một phong cách Art Direction rõ ràng (Editorial Brutalism, Swiss Typographic Style, Warm Analog Editorial, Neo-Retro Cyber, hoặc Japanese Minimalist).
-   - Thiết lập bảng màu dứt khoát theo nguyên tắc 60-30-10: 1 màu nền có chiều sâu, 1 màu cấu trúc tương phản cao, và 1 màu accent sắc bén.
+2. **Chống đụng hàng giữa các dự án (Domain DNA Divergence)**:
+   - Không bao giờ tạo ra 2 trang web có cùng công thức thị giác. Trước khi code, hãy ánh xạ **Hiện vật vật lý của ngành nghề** (bản vẽ CAD, đĩa than, nhãn dược phẩm, bảng điện tử...) và xoay vòng **Ma trận 4 trục** từ skill `domain-dna-matrix`.
 
-3. **Bố cục có lực căng thị giác (Dynamic Visual Tension)**:
-   - Ưu tiên bố cục bất đối xứng có nhịp điệu (Asymmetric Balance) và khoảng trắng mang tính kịch tính (Dramatic Negative Space).
-   - Tạo một điểm neo thị giác mạnh mẽ (Focal Anchor/Hero element) trong 3 giây đầu tiên. Mọi chi tiết trang trí không phục vụ ý niệm đều phải bị loại bỏ.
+3. **Cấm tuyệt đối "Icon trong hộp màu nhạt" & Đồ hoạ đại trà (Bespoke Visual Craft)**:
+   - CẤM đặt icon Lucide/Heroicons vào ô vuông bo góc có nền mờ 10% (`bg-primary/10`).
+   - Thay thế bằng sơ đồ kỹ thuật SVG nét mảnh (`Technical SVG Schematics`), hiệu ứng hạt nhiễu phim (`SVG Film Grain`), dấu neo kiến trúc (`+`) và cắt cúp ảnh tỷ lệ tạp chí (`4:5`, `21:9`) theo skill `bespoke-visual-craft`.
+
+4. **Chuyển động có biên đạo & Vật lý thực (Choreographed Motion)**:
+   - Không dùng `transition: all 0.3s ease` hay chỉ nhấc thẻ `-4px` khi hover.
+   - Sử dụng đường cong gia tốc chuẩn studio (`cubic-bezier(0.16, 1, 0.3, 1)`), hiệu ứng chữ trồi từ mặt nạ cắt (`Masked Line Reveal`), và mở màn hình ảnh bằng `clip-path` theo skill `choreographed-motion-ui`.
+
+5. **Thanh lọc văn mẫu & Số liệu giả của AI (Human Editorial Copy)**:
+   - CẤM dùng các cụm từ sáo rỗng (*"Nâng tầm trải nghiệm"*, *"Giải pháp toàn diện"*, *"Elevate your workflow"*, *"Unleash the power"*).
+   - CẤM tự bịa số liệu ảo (`99.9%`, `10K+ users`) hoặc đánh giá khách hàng giả (Fake Testimonials) khi chưa được cung cấp. Viết sắc sảo, cụ thể và giàu thông tin thực chất theo skill `human-editorial-copy`.
+
+6. **Tư duy Giám đốc Nghệ thuật (Art Director Mindset)**:
+   - Thiết lập bảng màu 60-30-10 có chiều sâu và cặp Typography tương phản tỷ lệ kịch tính (1:4 trở lên) theo skill `creative-graphic-design` và `frontend-design`.
