@@ -1,0 +1,12 @@
+{
+  "name": "creative-graphic-design",
+  "displayName": "Creative Graphic & Visual Design",
+  "version": "1.0.0",
+  "description": "Bộ công cụ và hướng dẫn thiết kế đồ hoạ thị giác đỉnh cao, triệt tiêu tư duy rập khuôn (anti-generic design, anti-AI slop). Cung cấp nguyên tắc bố cục kịch tính, typography nghệ thuật, bảng màu cá tính và hệ thống phong cách Art Direction độc bản.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Thiết kế poster/banner theo phong cách Editorial Brutalism phá cách",
+    "Xây dựng bảng màu và hệ thống Typography độc bản cho thương hiệu",
+    "Tư vấn bố cục đồ hoạ thị giác và thẩm định tránh các bẫy thiết kế rập khuôn"
+  ]
+}
